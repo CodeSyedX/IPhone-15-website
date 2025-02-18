@@ -1,49 +1,78 @@
- Introduction
-This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
+# 📱 iPhone 15 Pro Clone
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+A stunning Apple iPhone 15 Pro website clone built with **React.js** and **TailwindCSS**, leveraging **GSAP** for animations and **Three.js** for immersive 3D experiences.
 
+---
 
+## 🚀 Tech Stack
 
-⚙️ Tech Stack
-React.js
-Three.js
-React Three Fiber
-React Three Drei
-GSAP (Greensock)
-Vite
-Tailwind CSS
-🔋 Features
-👉 Beautiful Subtle Smooth Animations using GSAP: Enhanced user experience with seamless and captivating animations powered by GSAP.
+- **React.js** – Component-based UI library
+- **Three.js** – 3D graphics rendering
+- **React Three Fiber** – Declarative Three.js in React
+- **React Three Drei** – Helper utilities for React Three Fiber
+- **GSAP (Greensock Animation Platform)** – Smooth animations
+- **Vite** – Fast development build tool
+- **Tailwind CSS** – Utility-first styling
 
-👉 3D Model Rendering with Different Colors and Sizes: Explore the iPhone 15 Pro from every angle with dynamic 3D rendering, offering various color and size options.
+---
 
-👉 Custom Video Carousel (made with GSAP): Engage users with a unique and interactive video carousel developed using GSAP for a personalized browsing experience.
+## 🔥 Features
 
-👉 Completely Responsive: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
+✅ **Smooth & Elegant Animations with GSAP** – Enhancing user experience with sleek animations.
 
-and many more, including code architecture and reusability
+✅ **3D Model Rendering with Customization** – Interactive viewing of the iPhone 15 Pro in multiple colors and sizes.
 
-🤸 Quick Start
-Follow these steps to set up the project locally on your machine.
+✅ **Engaging Video Carousel (Powered by GSAP)** – A dynamic and smooth video carousel for a richer browsing experience.
 
-Prerequisites
+✅ **Fully Responsive Design** – Seamlessly adapts to different devices and screen sizes.
 
-Make sure you have the following installed on your machine:
+✅ **Optimized Performance** – Fast and efficient rendering for an enhanced browsing experience.
 
-Git
-Node.js
-npm (Node Package Manager)
-Cloning the Repository
+✅ **Modular & Scalable Codebase** – Clean architecture ensuring reusability and maintainability.
 
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
-cd iphone-doc
-Installation
+---
 
-Install the project dependencies using npm:
+## ⚡ Quick Start
 
+Follow these steps to set up and run the project on your local machine.
+
+### 📌 Prerequisites
+
+Ensure you have the following installed:
+
+- **Git**
+- **Node.js**
+- **npm** (Node Package Manager)
+
+### 📥 Clone the Repository
+
+```sh
+git clone https://github.com/CodeSyedX/IPhone-15-website.git
+cd IPhone-15-website
+```
+
+### 📦 Install Dependencies
+
+```sh
 npm install
-Running the Project
+```
 
+### ▶️ Run the Project
+
+```sh
 npm run dev
-Open http://localhost:5173 in your browser to view the project.
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser to explore the project.
+
+---
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+---
+
+##
